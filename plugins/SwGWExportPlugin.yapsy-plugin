@@ -1,0 +1,7 @@
+[Core]
+Name = SW Guild Wars Export Plugin
+Module = SwGWExportPlugin
+
+[Documentation]
+Version = 1.0
+Description = Export data from Guild Wars
